@@ -2,8 +2,7 @@
 
 Working:
  This Chatbot is made in Python, Flask, Ngrok for local hosting and Twilio WhatsApp sandbox. It
-take time and purpose of meeting from user as an input and gave us a default set message which![Screenshot 2023-02-23 212556](https://user-images.githubusercontent.com/111629507/220960969-dafc4ea2-e6cb-444c-973f-85422070f83b.png)
-
+take time and purpose of meeting from user as an input and gave us a default set message which
 will we send in an group and link of google meet for meeting.
 
 
@@ -13,6 +12,7 @@ web framework that allows you to create web apps using Python. Basically, if you
 file in the github link below, you will see that I just set up a function that listens for incoming
 messages via the POST method and reply as written in message response object. 
 
+![Screenshot 2023-02-23 212556](https://user-images.githubusercontent.com/111629507/220960969-dafc4ea2-e6cb-444c-973f-85422070f83b.png)
 ![Screenshot 2023-02-23 212939](https://user-images.githubusercontent.com/111629507/220961786-6a415c94-cf62-4276-82ad-f92799a69141.png)
 
 Ngrok:

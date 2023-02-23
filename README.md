@@ -13,11 +13,17 @@ file in the github link below, you will see that I just set up a function that l
 messages via the POST method and reply as written in message response object. 
 
 ![Screenshot 2023-02-23 212556](https://user-images.githubusercontent.com/111629507/220960969-dafc4ea2-e6cb-444c-973f-85422070f83b.png)
-![Screenshot 2023-02-23 212939](https://user-images.githubusercontent.com/111629507/220961786-6a415c94-cf62-4276-82ad-f92799a69141.png)
+
 
 Ngrok:
  After that , I used Ngrok to expose the appropriate port that the web app was running on my
 local PC to the internet. Ngrok creates a url that connects your web app to the external web.
+
+![Screenshot 2023-02-23 212939](https://user-images.githubusercontent.com/111629507/220961786-6a415c94-cf62-4276-82ad-f92799a69141.png)
+
+
+
+
  Twilio:
  Twilio is a service that allows you to programmatically (i.e through code) set how your
 applications work with communication channels like regular phone lines, sms or even Whatsapp.
